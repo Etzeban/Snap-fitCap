@@ -1,4 +1,4 @@
-<h1>Design For Manual Assembly Snap-fit Bottle Cap</h1>
+<h1>Design for manual assembly snap-fit bottle cap</h1>
 
 
 
