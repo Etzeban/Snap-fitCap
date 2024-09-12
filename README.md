@@ -32,7 +32,7 @@ Detail drawing of the snap-fit lid  <br/>
 <img src="https://i.imgur.com/45GOc52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-FEA stress analysis in SolidWorks  <br/>
+Nonlinear FEA stress analysis in SolidWorks  <br/>
 <img src="https://i.imgur.com/BWAkE0v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
