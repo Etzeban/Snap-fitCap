@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-In this project, a team of 5 students will design, build, and test their snap-fit bottle cap prototype. The snap-fit bottle cap will be attached to an existing 1.5L carbonated drink bottle, replacing its regular bottle cap.
+In this project, I collaborated a team of 5 students to design, build, and test their snap-fit bottle cap prototype. I resopnsible for designing CAD model prototype, calculated and performed structural analysis to find the force required to assemble the snap-fit. The snap-fit bottle cap will be attached to an existing 1.5L carbonated drink bottle, replacing its regular bottle cap.
 <br />
 
 
